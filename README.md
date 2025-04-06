@@ -55,3 +55,5 @@ You awaken inside a crumbling manor with no memory of how you got there. The onl
 
 ---
 
+The Project of the Month (PoTM) by IEEE CS BMSIT was a great platform to turn our ideas into reality. Through it, we explored the world of game development, learning how mechanics, design, and interaction come together. Huge thanks to IEEE CS for encouraging innovation and hands-on learning—it was an inspiring experience!
+
